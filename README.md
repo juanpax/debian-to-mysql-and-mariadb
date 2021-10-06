@@ -1,4 +1,4 @@
-# Test Debian connecting to MySQL
+# Test Debian connecting to MySQL/MariaDB 
 
 ## 1. Install dependencies 
 > apt-get update 
