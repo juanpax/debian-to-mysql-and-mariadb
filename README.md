@@ -3,7 +3,7 @@
 ## 1. Install dependencies 
 > apt-get update 
 > 
-> apt-get install mysql-client 
+> apt-get install mysql-client / apt-get install mariadb-client
 
 ## 2. Create the connection
 > mysql -u user@MySQLServerName -p  -h MySQLServerName.mysql.database.azure.com -P 3306 -D database
